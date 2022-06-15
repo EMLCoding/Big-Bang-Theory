@@ -9,4 +9,8 @@ This application allows you to view information on all the episodes of The Big B
 
 # Pantallas/Screens:
 
-<img src="https://github.com/EMLCoding/Big-Bang-Theory/blob/master/AppImages/main_screen.png" width="80"/>
+<img src="https://github.com/EMLCoding/Big-Bang-Theory/blob/master/AppImages/main_screen.png" width="200"/>
+
+<img src="https://github.com/EMLCoding/Big-Bang-Theory/blob/master/AppImages/detail_screen.png" width="200"/>
+
+<img src="https://github.com/EMLCoding/Big-Bang-Theory/blob/master/AppImages/fav_screen.png" width="200"/>
